@@ -1,6 +1,6 @@
 # Api
 
-A restful APi that allows client to get a list of all user and search for particular user through his userid.
+A restful API that allows client to get a list of all user and search for particular user through his userid.
 
 
 ## Installation
